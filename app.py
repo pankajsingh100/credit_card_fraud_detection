@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  2 05:05:12 2022
 
-@author: Pankaj singh
-"""
 
 import timeit
 import pandas as pd
